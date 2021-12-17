@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+    margin: 0;
+    background-color: #FAEDF0;
+}
+img
+{
+    width: 10%;
+    height: 10%;
+    border: solid 5px black;
+    border-radius: 20%;
+    margin: 0.5rem;
+}
+.top
+{
+    padding-top: 7rem;
+}
+h1
+{
+    font-size: 6rem;
+    color: #9A0680;
+    margin-top: 0;
+}
